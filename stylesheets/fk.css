@@ -1,0 +1,37 @@
+/* line 1, ../sass/fk.sass */
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* line 5, ../sass/fk.sass */
+.myself {
+  border-radius: 5px;
+}
+
+/* line 8, ../sass/fk.sass */
+.ulleft {
+  padding-left: 20px;
+}
+
+/* line 11, ../sass/fk.sass */
+li {
+  font-size: 15px;
+}
+
+/* line 15, ../sass/fk.sass */
+.myself {
+  border: solid 1px black;
+  margin: 0 300px 0 300px;
+  padding: 20px 40px 20px 40px;
+}
+
+/* line 22, ../sass/fk.sass */
+.allme {
+  padding-top: 20px;
+}
+
+/* line 25, ../sass/fk.sass */
+.about1 {
+  list-style: none;
+}
